@@ -1,0 +1,6 @@
+What is ai agent
+It is ai model + some tools+external functions 
+like calulating if rain falls in hyd 
+  for gpt 3.5 it does not have web browsing option 
+  for gpt 4.5 it has browsing option on the web to go and check in the weather  portal 
+  
